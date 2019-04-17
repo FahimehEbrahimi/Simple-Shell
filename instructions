@@ -1,0 +1,18 @@
+1.  ls, cd, mkdir, pwd
+2.  history, histat
+3.  cat like: cat sample.txt (it must be available)
+4.  > like: cat > txt.txt
+5.  vim, more, rm
+6.  | like cat instructions | grep like  
+7.  diff a.txt b.txt
+8.  ps ax, ps -ef
+9.  head instructions, head -n 2 instructions
+10. tail instructions, tail -n 2 instructions
+11. echo helllllo, echo hello > file.txt
+12. wc instructions, ls -l | wc -l
+13. ls | grep final | wc
+14. grep like instructions
+15. date
+17. < like: sort < b.txt
+18.  
+  

@@ -1,0 +1,49 @@
+********** README FILE ***********
+	Fahimeh Ebrahimi Meymand
+
+Compile: gcc -o shell shell.c
+Run: ./shell
+
+After running, you will redirect to the implemented shell, started by a welcome text.
+
+Type "help" (without quotation marks): You can see all of the commands that were implemented and tested.
+Also, you can see them here.
+
+Note1: Press Ctrl+c or type "exit" to exit
+Note2: pressing other shortcuts like "up" and "down" and "tab" keys are not supported. So you need to write your comand completely.
+
+
+Commands: 
+1. Required ones: 
+	history
+	histat
+	pipe like: ls -al | wc
+	output redirection like: echo hello > test.txt
+
+2. Additional implemented commands:
+	input redirection like: sort < a.txt
+	multi-level pipes like: ls | grep te | wc
+	cd
+	exit
+	help
+	pwd
+
+3. Some common commands that I have tested:
+	mkdir
+	ls
+	vim
+	more
+	rm
+	date
+	cat b.txt
+	diff a.txt b.txt
+	ps ax
+	head -n 2 instructions
+	tail -n 2 instructions
+	echo helllllooooo
+	wc instructions
+	grep like instructions
+	cp t1 t3
+	
+	
+
